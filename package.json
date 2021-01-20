@@ -1,7 +1,7 @@
 {
   "name": "main",
   "version": "1.0.0",
-  "description": "",
+  "description": "hello",
   "main": "server.js",
   "scripts": {
     "test": "jest",
@@ -15,5 +15,16 @@
   },
   "devDependencies": {
     "jest": "^25.1.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathan-84/zookeeper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jonathan-84/zookeeper/issues"
+  },
+  "homepage": "https://github.com/Jonathan-84/zookeeper#readme"
 }
